@@ -1,0 +1,12 @@
+using System;
+
+namespace Guess-The-Num-Game
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //make the random number between 1 and 10
+        }
+    }
+}
